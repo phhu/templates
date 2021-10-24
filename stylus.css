@@ -1,0 +1,17 @@
+.*wolframalpha\.com.*
+
+div[role="tooltip"],header,nav,a[href="https://www.wolframalpha.com/pro/pricing/students"],a[href*="https://www.wolframalpha.com/"],a[href*="https://www.wolfram.com/"],a[href="https://www.wolframalpha.com/pro/pricing/students/?adref=step-by-step-courses.png"] {display:none !important}
+
+
+https://rdrr.io/snippets/
+
+div.info.message,h1.header,div.ui.segment,body > div:nth-child(4){display:none}
+
+
+courses.edx.org
+
+input {display:none !important}
+label {border:1px black !important}
+div.inputtype {display:none !important}
+div.equation  {display:none !important}
+
